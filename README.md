@@ -47,3 +47,25 @@ Below is the table for 4 activities that everyone should try atleast once. It ha
 
 > “Being unique is better than being perfect.”
 >> *Charles*
+
+***
+
+# code fencing
+
+> The binomial coefficients are the positive integers that occur as coefficients in the binomial theorem. Commonly, a binomial coefficient is indexed by a pair of integers n ≥ k ≥ 0 and is written {\displaystyle {\tbinom {n}{k}}.}{\displaystyle {\tbinom {n}{k}}.} It is the coefficient of the xk term in the polynomial expansion of the binomial power (1 + x)n.
+
+[link to source](https://en.wikipedia.org/wiki/Binomial_coefficient)
+
+```
+
+int C(int n, int k) {
+    int res = 1;
+    for (int i = n - k + 1; i <= n; ++i)
+        res *= i;
+    for (int i = 2; i <= k; ++i)
+        res /= i;
+    return res;
+}
+
+```
+[link to source code of binomial coefficient](https://cp-algorithms.com/combinatorics/binomial-coefficients.html)
