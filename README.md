@@ -26,3 +26,17 @@ List of good food items that are recommended to others in Warangal
     - Kaju bharifi
 
     [This is aboutme link](https://github.com/RanyaReddy/assignment2-marla/blob/main/AboutMe.md)
+
+***
+
+# Creating the activities table
+
+Below is the table for 4 activities that everyone should try atleast once. It has details regarding the location of the activity and the amount of money needed for the personal equipment.
+| Activity | Location | Amount in $|
+| --- | --- | ---: |
+| Kayaking | California | 25 |
+| Cycling Vacation | Europe | 30 |
+| Skydiving | Kansas | 15|
+| Parasailing | Miami | 10 |
+
+***
