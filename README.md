@@ -40,3 +40,10 @@ Below is the table for 4 activities that everyone should try atleast once. It ha
 | Parasailing | Miami | 10 |
 
 ***
+# quotes
+
+> “The purpose of our lives is to be happy.”
+>> *Dalai lama*
+
+> “Being unique is better than being perfect.”
+>> *Charles*
