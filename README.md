@@ -13,3 +13,14 @@ Following are the steps for traveling to my food location
 1. You can book a cab or travel on your own vehicle from Warangal to kazipet railway station.
 2. Take the first train which is available to travel from kazipet railyway sation to Secunderabad junction.
 3. From Secunderabad junction you can book a cab or you can travel in airport buses to reach the Rajiv Gandhi international airport.
+
+## Best food items in Warangal
+List of good food items that are recommended to others in Warangal
+- Watermelon margarita mocktail
+- Chicken soup
+- Main course
+    - Chicken dum biryani
+    - Prawns fry
+- Deserts
+    - Dark chocolate icecream
+    - Kaju bharifi
