@@ -52,9 +52,13 @@ Below is the table for 4 activities that everyone should try atleast once. It ha
 
 # code fencing
 
+# Binomial coefficient
+
 > The binomial coefficients are the positive integers that occur as coefficients in the binomial theorem. Commonly, a binomial coefficient is indexed by a pair of integers n ≥ k ≥ 0 and is written {\displaystyle {\tbinom {n}{k}}.}{\displaystyle {\tbinom {n}{k}}.} It is the coefficient of the xk term in the polynomial expansion of the binomial power (1 + x)n.
 
 [link to source](https://en.wikipedia.org/wiki/Binomial_coefficient)
+
+implementation of Binomial coefficient <https://cp-algorithms.com/combinatorics/binomial-coefficients.html>
 
 ```
 
@@ -68,4 +72,3 @@ int C(int n, int k) {
 }
 
 ```
-[link to source code of binomial coefficient](https://cp-algorithms.com/combinatorics/binomial-coefficients.html)
